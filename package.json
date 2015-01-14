@@ -1,8 +1,8 @@
 {
-  "name": "eightoheight",
-  "productName": "EightOhEight",
-  "version": "0.0.1",
-  "description": "A Sample Atom Shell App",
+  "name": "fireball",
+  "productName": "Fireball",
+  "version": "0.1.2",
+  "description": "Html5 game engine for the future.",
   "main": "./src/browser/main.js",
   "repository": {
     "type": "git",
@@ -39,7 +39,24 @@
     "temp": "0.7.0",
     "underscore-plus": "^1.6.1",
     "vm-compatibility-layer": "0.1.0",
-    "yargs": "^1.3.3"
+    "yargs": "^1.3.3",
+    "del": "",
+    "event-stream": "",
+    "gulp": "",
+    "gulp-util": "",
+    "nomnom": "",
+    "vinyl-source-stream": "",
+    "browserify": "",
+    "bower": "",
+    "fire-fs": "",
+    "fire-url": "",
+    "fire-path": "",
+    "fire-watch": "",
+    "node-uuid": "",
+    "chalk": "",
+    "image-size": "",
+    "lwip": "",
+    "vinyl": ""
   },
   "private": true,
   "scripts": {
